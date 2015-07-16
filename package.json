@@ -1,0 +1,35 @@
+{
+  "name": "karma-test",
+  "version": "0.0.0",
+  "description": "trash project for bug checking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKVal/karma-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexKVal/karma-test/issues"
+  },
+  "homepage": "https://github.com/AlexKVal/karma-test#readme",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "karma": "^0.13.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-cli": "^0.1.0",
+    "karma-mocha": "^0.2.0",
+    "karma-mocha-reporter": "^1.0.2",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "karma-sinon": "^1.0.4",
+    "karma-sinon-chai": "^1.0.0",
+    "mocha": "^2.2.5",
+    "phantomjs": "^1.9.17",
+    "sinon": "^1.15.4",
+    "sinon-chai": "^2.8.0"
+  }
+}
